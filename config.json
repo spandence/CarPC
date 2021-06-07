@@ -1,0 +1,14 @@
+{
+    "global": {
+        "temp_storage": "/mnt/tmpfs/",
+        "persistant_storage": "/mnt/usb/"
+    },
+    "camera": {
+        "cameraDevice": "/dev/video2",
+        "videoSize": "960x576",
+        "frameRate": "25",
+        "duration_mins": 5,
+        "keep_size_G": 16,
+        "keep_size_utilization": 1
+    }
+}
